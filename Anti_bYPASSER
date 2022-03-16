@@ -1,0 +1,26 @@
+     _               ___  .      |       \   /  ____                          _____   _____
+    / \     |\    |   |          |        \ /  |    |            ____   ____ |       |
+   /___\    | \   |   |   |      |_____    |   |____|  ____      \      \    |_____  |
+  /     \   |  \  |   |   | ___  |     |   |   |      |    |      \      \   |       |
+ /       \  |   \ |   |   |      |     |   |   |      |    |       \      \  |       |
+/         \ |    \|   |   |      |_____|   |   |      |____|__  ____\   ___\ |_____  |
+
+
+--Made By Cerx Scripts
+
+message = "📃X---Loading Auto-Detect Anti_Bypasser---X📃"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+
+wait(0.2)
+
+print("Working... Checking For Errors...")
+wait(1.6)
+print("Successfully Bypassed Prison Life!")
+
+wait(0.1)
+
+--<roblox!‰ÿ
+
+--</robloxscript.Anti_Bypasser---X./Anti_Bypasser---X=true.but
+--Anti_Bypasser---X=false
+--Anti_Bypasser---Xdebug
